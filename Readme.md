@@ -1,5 +1,12 @@
 # 💫 About Me:
-My name is Akshay Sharma I am an undergrad student pursuing my B.Tech in Computer Science and Engineering(CSE) at Sur Institute of Technology.<br><br>You can usually find me making websites and improving them but I also am an avid reader and learner and always willing to tackle a new challenge. I have participated in open source events and have other interests like poetry, writing, data science, Machine learning and Artificial intelligence. My motto is to give back more than what I take and I plan on contributing as much as I can to the tech community.<br><br>Actively looking for internships and willing to connect and collaborate on projects.
+I’m Akshay Sharma, a final-year B.Tech student in Computer Science and Engineering at Dr. Sudhir Chandra Sur Institute of Technology and Sports Complex. I specialize in software development, with strong skills in Python and a focus on building scalable, efficient solutions.
+<br><br>
+I enjoy creating and improving websites, contributing to open-source projects, and exploring data science, machine learning, and AI. As a Microsoft Learn Student Ambassador, I’m dedicated to continuous learning and helping others grow.
+<br><br>
+I’ve organized several events, gaining experience in content creation, event anchoring, and volunteering. Outside of coding, I have skills in social media marketing, content writing, and Canva design, which help me promote projects effectively.
+<br><br>
+Always eager to connect with like-minded professionals and contribute to impactful tech projects.
+<br><br>
 
 
 ## 🌐 Socials:
