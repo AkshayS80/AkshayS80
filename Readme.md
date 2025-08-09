@@ -1,12 +1,5 @@
 # 💫 About Me:
-I’m Akshay Sharma, a final-year B.Tech student in Computer Science and Engineering at Dr. Sudhir Chandra Sur Institute of Technology and Sports Complex. I specialize in software development, with strong skills in Python and a focus on building scalable, efficient solutions.
-<br><br>
-I enjoy creating and improving websites, contributing to open-source projects, and exploring data science, machine learning, and AI. As a Microsoft Learn Student Ambassador, I’m dedicated to continuous learning and helping others grow.
-<br><br>
-I’ve organized several events, gaining experience in content creation, event anchoring, and volunteering. Outside of coding, I have skills in social media marketing, content writing, and Canva design, which help me promote projects effectively.
-<br><br>
-Always eager to connect with like-minded professionals and contribute to impactful tech projects.
-<br><br>
+Final-year B.Tech student in Computer Science and Engineering. Passionate about software development with Python, web development, and open-source. I work on projects involving data science, machine learning, and AI. Microsoft Learn Student Ambassador constantly learning and sharing my knowledge.
 
 
 ## 🌐 Socials:
